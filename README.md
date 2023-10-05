@@ -7,4 +7,5 @@ I coded this basic snake game along a tutorial by Clear Code. While doing so I w
 
 
 TODO
-- add game over screen with reset button
+- add game over screen
+- add replay button
