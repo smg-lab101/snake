@@ -5,6 +5,8 @@ from pygame import surface
 from pygame import draw
 from pygame.math import Vector2
 
+# by smg-lab101
+
 
 class SNAKE:
     def __init__(self):
